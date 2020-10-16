@@ -1,0 +1,98 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+}
+
+body{
+    margin: 0px;
+}
+
+.btn{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.contacto{
+    background-color: #252f61;
+}
+
+.trabajo{
+    padding-right: 10px;
+}
+
+.caja1{
+    position:relative;
+    display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.icono{
+    position: absolute;
+    bottom: 200px;
+    display: flex;
+}
+
+.foto{
+    position: relative;
+    width: 30rem;
+}
+
+.caja2{
+    position:relative;
+    display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.cajash{
+   margin: 20px;
+}
+.caja3{
+    position:relative;
+    display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.caja4{
+    height: 50%;
+    position:relative;
+    display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.fab{
+
+    height: 40px;
+    width: 30px;
+    background: #1a1a1a;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 5px;
+    transition: 0.3s;
+    padding: 10px 2px;
+}
+
+
+.logodeco{
+    position: fixed;
+    width: 35%;
+    bottom: 0px;
+    right: 0px;
+    max-width: 100%;
+}
+
+.nav-link .fa-home{
+    font-size: 25px;
+    color: #a5177b;
+}
+
+.cajaform{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 2rem;
+}
